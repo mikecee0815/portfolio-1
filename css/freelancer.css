@@ -476,7 +476,8 @@ h3
     font-family: 'raleway',serif
 }
  .portfolio-item img{
-    /*max-height: 300px;*/
+    /*max-height: 200px;*/
+     max-width: 400px;
 
  }
  .portfolio-item img{
